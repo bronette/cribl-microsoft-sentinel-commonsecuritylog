@@ -45,6 +45,7 @@ fname,FileName
 fsize,FileSize
 host,Computer
 in,ReceivedBytes
+msg,Message
 name,Activity
 oldfilecreatetime,OldFileCreateTime
 oldfilehash,OldFileHash
