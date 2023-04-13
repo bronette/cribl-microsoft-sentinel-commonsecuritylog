@@ -15,7 +15,7 @@ Before you begin, ensure that you have met the following requirements:
 
 ## How it works
 * We split the CSV Syslog _raw field into it's own fields. 
-* We then use a rename function to look up the CEF field name and find it's CommonSecurityLog field name from within the cef-to-common-security-log.csv mapping file in the knowledge pack.
+* We then use a rename function to look up the CEF field name and find its CommonSecurityLog field name from within the cef-to-common-security-log.csv mapping file in the knowledge pack.
 * Numerify any values that are numbers. 
 * (Optional) If the DeviceVendor input is Palo Alto Networks, through any fields that start with PAN into a field called: "AdditionalEvents".  
 
