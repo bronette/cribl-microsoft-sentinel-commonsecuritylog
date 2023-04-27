@@ -125,7 +125,7 @@ functions:
         - appname
         - facility
         - _time
-    description: Format the TimeGenereated field and add a Type field for Sentinel
+    description: Format the TimeGenerated field and add a Type field for Sentinel
       and remove any unwanted fields.
   - id: numerify
     filter: "true"
@@ -135,4 +135,4 @@ functions:
       ignoreFields: []
       filterExpr: ""
       digits: 0
-    description: Convert any number based fields to number for ingestion into Sentinel.
+    description: Convert any number based fields to int for ingestion into Sentinel.
