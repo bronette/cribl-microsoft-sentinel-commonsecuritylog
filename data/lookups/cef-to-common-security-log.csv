@@ -33,7 +33,7 @@ dvc,DeviceAddress
 dvchost,DeviceName
 dvcmac,DeviceMacAddress
 dvcpid,ProcessID
-externalid,ExtID
+externalid,ExternalID
 filecreatetime,FileCreateTime
 filehash,FileHash
 fileid,FileID
