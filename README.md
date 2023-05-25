@@ -182,8 +182,8 @@ This is the first release. It's been mainly tested against Palo Alto and Trend M
 
 
 ## Contact
-To contact us please email kbrunette@cribl.ip and dgleich@cribl.io. 
+To contact us please email kbrunette@cribl.io and dgleich@cribl.io. 
 
 
 ## License
-TThis Pack uses the following license: [`Apache 2.0`](https://www.apache.org/licenses/LICENSE-2.0).
+This Pack uses the following license: [`Apache 2.0`](https://www.apache.org/licenses/LICENSE-2.0).
